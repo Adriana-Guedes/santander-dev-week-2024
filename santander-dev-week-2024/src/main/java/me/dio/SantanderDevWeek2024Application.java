@@ -10,4 +10,5 @@ public class SantanderDevWeek2024Application {
 		SpringApplication.run(SantanderDevWeek2024Application.class, args);
 	}
 
+
 }
