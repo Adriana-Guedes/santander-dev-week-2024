@@ -38,5 +38,6 @@ classDiagram
     User --> Feature : has many
     User --> Card : has
     User --> News : has many
+
 ```
 
